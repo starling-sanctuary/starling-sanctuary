@@ -1,0 +1,4 @@
+- hi!
+- please read my rentry 
+- https://rentry.co/5e7bfe (made by mysticmikey 💜)
+- my timezone is AEST
