@@ -2,4 +2,4 @@
 - please read my rentry 
 - https://rentry.co/5e7bfe (made by [mysticmikey](https://github.com/mysticmikey) 💜)
 - my timezone is AEST
-- please note that the contribution chart will likely not be perfectly accurate, i have some private repos i often work on!
+- please note that the contribution chart will likely not be perfectly accurate, i have some private repos i often work on & i use gitlab way more!
