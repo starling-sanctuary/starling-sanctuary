@@ -1,5 +1,5 @@
 - hi! my name's astro
 - please read my [rentry](https://rentry.co/starlingsanctuary)
-- https://rentry.co/starlingsanctuary (made by [twigkitt](https://github.com/twigkitt) 💜)
+- https://rentry.co/starlingsanctuary (made by [dollipede](https://github.com/dollipede) 💜)
 - my timezone is AEST
 - please note that the contribution chart will likely not be perfectly accurate, i have some private repos i often work on & i use gitlab way more!
